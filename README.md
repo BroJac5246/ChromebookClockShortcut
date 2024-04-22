@@ -2,7 +2,7 @@ This is a simple app that shows up as Google Clock in a Chromebook's launcher an
 
 ![Screenshot 2024-04-21 19 55 00](https://github.com/BroJac5246/ChromebookClockShortcut/assets/104146239/64f80151-ef16-444d-81f5-a76bf677edc3)
 
-`A Chromebook launcher with this app installed`
+> A Chromebook launcher with this app installed`
 
 # Installing
 I don't have a Google Developer Profile, and even if I did, I don't know if this would be accepted to the Play Store. As such, it will need to be sideloaded.
