@@ -21,4 +21,4 @@ There are two ways to install the APK:
 If you want to contribute, feel free to make a pull request. However, be aware that I am new to Kotlin so you'll have to stick with me 😂
 
 # Supporting
-If you like this, the best way you can help is by starring it (you'll make my day!). You can also contribute if you know Kotlin, or you create an issue to file a suggestion!
+If you like this, the best way you can help is by starring it (you'll make my day!). You can also contribute if you know Kotlin, or you can create an issue to file a suggestion!
